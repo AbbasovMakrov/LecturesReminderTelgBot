@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LecsReminder", "LecsReminder\LecsReminder.csproj", "{96A49FD8-1B52-4033-84CF-78C8195E6597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReminderSender", "ReminderSender\ReminderSender.csproj", "{F6A285AB-78A8-4630-BF60-F63D53CD7801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A49FD8-1B52-4033-84CF-78C8195E6597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A49FD8-1B52-4033-84CF-78C8195E6597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A49FD8-1B52-4033-84CF-78C8195E6597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A49FD8-1B52-4033-84CF-78C8195E6597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A285AB-78A8-4630-BF60-F63D53CD7801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A285AB-78A8-4630-BF60-F63D53CD7801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A285AB-78A8-4630-BF60-F63D53CD7801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A285AB-78A8-4630-BF60-F63D53CD7801}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
