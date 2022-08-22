@@ -10,7 +10,7 @@ using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 using File = System.IO.File;
 
-var client = new TelegramBotClient("5224509753:AAHprSSvjjoQpq7SjsXZJn15PZb03tabq3g");
+var client = new TelegramBotClient("5224509753:AAHprSSvjjoQpq7SjsXZJn15PZb03tabqaa");
 var adminsIds = new long[]
 {
     348475752
